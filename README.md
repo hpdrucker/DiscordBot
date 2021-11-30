@@ -8,7 +8,7 @@ There are 10 different commands for the bot.
 You need a .env File with the Private Key/Token of your Discord Bot + declare a new Prefix.
 
 It should look like:
-DISCORD_TOKEN = ODQ3MT...
+DISCORD_TOKEN = ODQ3MT... \n
 PREFIX = .
 
 You need the following packages [discord.js, fs, dotenv, minecraft-server-util, puppeteer, images-scraper]
