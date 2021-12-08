@@ -12,6 +12,6 @@ DISCORD_TOKEN = ODQ3MT...<br />
 PREFIX = .<br />
 
 You need the following packages [discord.js, fs, dotenv, minecraft-server-util, puppeteer, images-scraper]<br />
-import them by using the Node Package Manager: npm install fs   etc...
+import them by using the Node Package Manager: npm install
 
 You should be able to start the bot with: node .
